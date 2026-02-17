@@ -14,25 +14,10 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 
 ## 📅 Weekly Progress Roadmap
 
-### 🧼 Week 1: Data Acquisition & Power Query
-*   **Tasks:** Connected to multiple data sources and performed data profiling.
-*   **Skills:** 🛠️ Data Cleaning, 🔄 ETL, 📑 Power Query (M Language).
-*   **Outcome:** A structured and error-free dataset ready for analysis.
+### 🔍 Week 1: Introduction to Data Analysis
+*   **Focus:** Understanding the Data Analyst role and the Power BI ecosystem.
 
-### 🧠 Week 2: Data Modelling & DAX Mastery
-*   **Tasks:** Created a Star Schema and built complex business logic.
-*   **Skills:** 🔗 Relationship Management, 🧮 DAX (Measures & Columns), ⏳ Time Intelligence.
-*   **Outcome:** A robust data model capable of high-performance calculations.
 
-### 🎨 Week 3: Visualization & Interactive Reporting
-*   **Tasks:** Developed high-impact visuals and integrated interactive elements.
-*   **Skills:** 📊 Custom Charts, 🎚️ Slicers & Filters, 🖱️ Tooltips & Drill-throughs.
-*   **Outcome:** A user-friendly dashboard with seamless navigation.
-
-### 🚀 Week 4: Final Project & Strategic Insights
-*   **Tasks:** Finalized the report and identified key performance trends.
-*   **Skills:** 💡 Storytelling with Data, 📈 Business Forecasting, 📤 Publishing to Power BI Service.
-*   **Outcome:** Comprehensive analytical report with actionable recommendations.
 
 ---
 
@@ -44,15 +29,7 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 
 ---
 
-## 📊 Sample Insights Generated
-- 📈 **Trend Analysis:** Identified a seasonal sales spike during Q4.
-- 🎯 **Performance KPIs:** Calculated Profit Margin and YoY Growth using DAX.
-- 📍 **Geographic Insight:** Visualized top-performing regions via Map Visuals.
-
----
-
 ## 🤝 Let's Connect!
 If you have any feedback or want to discuss Power BI, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io)](YOUR_PORTFOLIO_URL)
+https://www.linkedin.com/in/swaranjali-harkare-364a592a8/
