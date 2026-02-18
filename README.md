@@ -5,7 +5,7 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 ---
 
 ## 🌟 Internship Highlights
-- 🏛️ **Platform:** [AICTE National Internship Portal](https://internship.aicte-india.org)
+- 🏛️ **Platform:** [AICTE National Internship Portal (Official Registration)](https://internship.aicte-india.org)
 - 🕒 **Duration:** 4 Weeks (Intensive Learning)
 - 🛠️ **Core Focus:** Data Analytics, ETL, DAX, and Data Storytelling
 - 📜 **Certification:** Microsoft Elevate & AICTE Recognized
