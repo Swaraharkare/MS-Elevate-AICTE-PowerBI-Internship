@@ -18,7 +18,8 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 ### 🔍 Week 1: Introduction to Data Analysis & BI Concepts
 *   **Focus:** Understanding the Data Analyst role, Business Intelligence (BI) foundations, and the Power BI ecosystem.
 *   **Key Learning Modules:**
-    *   **Data Analytics Essentials:** Definition, importance, and the 5-step process: **Collection $\rightarrow$ Cleaning $\rightarrow$ Analysis $\rightarrow$ Interpretation $\rightarrow$ Decision Making**.
+    *   **Data Analytics Essentials:**
+          Definition, importance, and the 5-step process: **Collection $\rightarrow$ Cleaning $\rightarrow$ Analysis $\rightarrow$ Interpretation $\rightarrow$ Decision Making**.
     *   **Analytical Types:** Deep dive into **Descriptive** (What happened?), **Diagnostic** (Why did it happen?), **Predictive** (What could happen?), and **Prescriptive** (What should we do?) analytics.
     *   **BI vs. Data Analytics:** Comparing focus areas (Historical Trends vs. Future Predictions), tools, and target users (Business Executives vs. Data Scientists).
     *   **Power BI Setup:** Installation of **Power BI Desktop** and understanding the core `.pbix` workflow (Connect $\rightarrow$ Transform $\rightarrow$ Model $\rightarrow$ Visualize).
