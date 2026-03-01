@@ -25,7 +25,7 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
     *   **BI vs. Data Analytics:** Comparing focus areas (Historical Trends vs. Future Predictions), tools, and target users (Business Executives vs. Data Scientists).
     *   **Power BI Setup:** Installation of **Power BI Desktop** and understanding the core `.pbix` workflow (Connect $\rightarrow$ Transform $\rightarrow$ Model $\rightarrow$ Visualize).
     *   **Industry Applications:** Exploring how **Healthcare, Finance, and Retail** leverage data for competitive advantage and operational optimization.
-     --- 
+      
 **🛠️ Day-2:** Cleaning raw data which sample dataset is given by mentor .
 
 ---
