@@ -19,15 +19,14 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 
 **🛠️ Session-1 :** **Understanding the Data Analyst role, Business Intelligence (BI) foundations, and the Power BI ecosystem.**
 *   **Key Learning Modules:**
-    *   **Data Analytics Essentials:**
-          Definition, importance, and the 5-step process: **Collection $\rightarrow$ Cleaning $\rightarrow$ Analysis $\rightarrow$ Interpretation $\rightarrow$ Decision Making**.
+    *   **Data Analytics Essentials:** Definition, importance, and the 5-step process: **Collection $\rightarrow$ Cleaning $\rightarrow$ Analysis $\rightarrow$ Interpretation $\rightarrow$ Decision Making**.
     *   **Analytical Types:** Deep dive into **Descriptive** (What happened?), **Diagnostic** (Why did it happen?), **Predictive** (What could happen?), and **Prescriptive** (What should we do?) analytics.
     *   **BI vs. Data Analytics:** Comparing focus areas (Historical Trends vs. Future Predictions), tools, and target users (Business Executives vs. Data Scientists).
     *   **Power BI Setup:** Installation of **Power BI Desktop** and understanding the core `.pbix` workflow (Connect $\rightarrow$ Transform $\rightarrow$ Model $\rightarrow$ Visualize).
     *   **Industry Applications:** Exploring how **Healthcare, Finance, and Retail** leverage data for competitive advantage and operational optimization.
       
 **🛠️ Session-2:** **ETL & Data Cleaning (Power Query).**
-*    In this session, I processed three years of raw sales data (2018–2020) to create a clean, analysis-ready dataset.
+  In this session, I processed three years of raw sales data (2018–2020) to create a clean, analysis-ready dataset.
  *   **Data Consolidation:** Appended and merged separate datasets for 2018, 2019, and 2020 into a single unified "Order Details" master table.
  *   **Text & Format Standardization:** Used Capitalized Each Word for consistency and Split Columns by Character to extract specific data attributes for deeper granularity.
  *   **Structural Optimization:** Streamlined the table schema by Removing, Renaming, and Reordering columns to ensure a logical and user-friendly data structure.
