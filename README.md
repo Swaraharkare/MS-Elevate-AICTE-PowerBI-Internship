@@ -33,7 +33,7 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
  *   **Text & Format Standardization:** Used Capitalized Each Word for consistency and Split Columns by Character to extract specific data attributes for deeper granularity.
  *   **Structural Optimization:** Streamlined the table schema by Removing, Renaming, and Reordering columns to ensure a logical and user-friendly data structure.
  *   **Feature Engineering:** Utilized the Inserted Year transformation to enable time-series filtering and Year-over-Year (YoY) performance comparisons
--
+***
 ### 📊 Week 2: Relational Modeling & Star Schema
 
 **🛠️ Session 3: Financial Analysis & Executive Reporting**
@@ -46,7 +46,7 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 *   **7-Table Integration:** Processed and cleaned a relational database consisting of Customer, Date, Product, Reseller, Sales, SalesOrder, and SalesTerritory.
 *   **Star Schema Architecture:** Designed a professional data model by connecting a central Fact Table (Sales) to multiple Dimension Tables.
 *   **Relationship Management:** Established One-to-Many and One-to_One relationships and optimized cross-filter directions for accurate calculation.
--
+***
 ### 👥  Week 3:  Employee Data ETL
 
 **🛠️ Session-5: Employee Data Transformation & Profiling**
