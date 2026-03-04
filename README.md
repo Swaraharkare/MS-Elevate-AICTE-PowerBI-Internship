@@ -33,8 +33,9 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
  *   **Text & Format Standardization:** Used Capitalized Each Word for consistency and Split Columns by Character to extract specific data attributes for deeper granularity.
  *   **Structural Optimization:** Streamlined the table schema by Removing, Renaming, and Reordering columns to ensure a logical and user-friendly data structure.
  *   **Feature Engineering:** Utilized the Inserted Year transformation to enable time-series filtering and Year-over-Year (YoY) performance comparisons
-
+-
 ### 📊 Week 2: Relational Modeling & Star Schema
+
 **🛠️ Session 3: Financial Analysis & Executive Reporting**
 *   **Automated Date Modeling:** Created a dedicated Calendar Table to establish a robust relationship with financial data for time-series analysis.
 *   **Executive Summary Dashboard:** Designed a high-impact financial report featuring a sleek dark-themed UI for better readability and focus.
@@ -45,8 +46,10 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 *   **7-Table Integration:** Processed and cleaned a relational database consisting of Customer, Date, Product, Reseller, Sales, SalesOrder, and SalesTerritory.
 *   **Star Schema Architecture:** Designed a professional data model by connecting a central Fact Table (Sales) to multiple Dimension Tables.
 *   **Relationship Management:** Established One-to-Many and One-to_One relationships and optimized cross-filter directions for accurate calculation.
+-
+### 👥  Week 3:  Employee Data ETL
 
-### 📊 Week 3:  Employee Data ETL
+**🛠️ Session-5: Employee Data Transformation & Profiling**
 *   **Employee Data Transformation:** Performed end-to-end ETL on Employee data, ensuring 100% data validity through rigorous Column Quality profiling in Power Query.
 *   **KPI Development:** Calculated critical workforce metrics including Total Enrolled Employees (38), Present/Absent counts, and an 87% Average Attendance rate.
 *   **Interactive Dashboard:** Workforce Distribution: Used a Treemap to visualize employee counts by Job Level (Analyst, Executive, etc.).
