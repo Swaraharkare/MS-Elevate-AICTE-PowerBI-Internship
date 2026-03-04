@@ -1,4 +1,4 @@
-<img width="1496" height="666" alt="image" src="https://github.com/user-attachments/assets/3207e6d4-97e4-4774-877d-ccdc7eaa5394" /># 🎓 MS Elevate - AICTE Power BI Internship (4 Weeks)
+# 🎓 MS Elevate - AICTE Power BI Internship (4 Weeks)
 
 Welcome to my repository for the **Microsoft Elevate Virtual Internship** program! This project showcases the end-to-end Business Intelligence workflow developed over 4 weeks under the guidance of **Microsoft** and **Edunet Foundation**.
 
