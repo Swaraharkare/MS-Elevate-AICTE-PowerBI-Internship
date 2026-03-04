@@ -1,4 +1,4 @@
-# 🎓 MS Elevate - AICTE Power BI Internship (4 Weeks)
+<img width="1496" height="666" alt="image" src="https://github.com/user-attachments/assets/3207e6d4-97e4-4774-877d-ccdc7eaa5394" /># 🎓 MS Elevate - AICTE Power BI Internship (4 Weeks)
 
 Welcome to my repository for the **Microsoft Elevate Virtual Internship** program! This project showcases the end-to-end Business Intelligence workflow developed over 4 weeks under the guidance of **Microsoft** and **Edunet Foundation**.
 
@@ -24,6 +24,9 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
     *   **BI vs. Data Analytics:** Comparing focus areas (Historical Trends vs. Future Predictions), tools, and target users (Business Executives vs. Data Scientists).
     *   **Power BI Setup:** Installation of **Power BI Desktop** and understanding the core `.pbix` workflow (Connect $\rightarrow$ Transform $\rightarrow$ Model $\rightarrow$ Visualize).
     *   **Industry Applications:** Exploring how **Healthcare, Finance, and Retail** leverage data for competitive advantage and operational optimization.
+      <img width="1400" height="618" alt="image" src="https://github.com/user-attachments/assets/8408afac-5464-4e74-a796-e9981fcd6749" />
+
+<img width="1496" height="666" alt="image" src="https://github.com/user-attachments/assets/772748a6-2ddc-4ab4-9d5c-867f72d82fc3" />
       
 **🛠️ Session-2:** **ETL & Data Cleaning (Power Query).**
   In this session, I processed three years of raw sales data (2018–2020) to create a clean, analysis-ready dataset.
