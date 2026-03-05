@@ -42,8 +42,12 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 **🛠️ Session 3: Financial Analysis & Executive Reporting**
 *   **Automated Date Modeling:** Created a dedicated Calendar Table to establish a robust relationship with financial data for time-series analysis.
 *   **Executive Summary Dashboard:** Designed a high-impact financial report featuring a sleek dark-themed UI for better readability and focus.
-*   **Advanced Visualizations:**
+*   **Advanced Visualizations & KPIs:**
+      *   **Financial Metrics:** Tracked $118.73M in Total Sales and 1M Units Sold using dynamic KPI cards.
+      *   **Geographic & Product Insights:** Utilized Funnel charts for country-wise profit analysis and Pie charts for product distribution (e.g., Paseo leading at 202 units).
+      *   **Segment Performance:** Implemented a Treemap to visualize market dominance, identifying "Government" as the top-performing segment.
 *   **Interactive Navigation:** Integrated Slicers (Month/Year) to allow end-users to drill down into specific timeframes dynamically.
+    <img width="1126" height="631" alt="Financial Report" src="https://github.com/user-attachments/assets/303d6ae6-3f0d-4cbe-ae36-2572dd10248b" />
 
 **🛠️ Session-4: Complex Data Modeling (Star Schema)**
 *   **7-Table Integration:** Processed and cleaned a relational database consisting of Customer, Date, Product, Reseller, Sales, SalesOrder, and SalesTerritory.
@@ -56,9 +60,10 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 *   **Employee Data Transformation:** Performed end-to-end ETL on Employee data, ensuring 100% data validity through rigorous Column Quality profiling in Power Query.
 *   **KPI Development:** Calculated critical workforce metrics including Total Enrolled Employees (38), Present/Absent counts, and an 87% Average Attendance rate.
 *   **Interactive Dashboard:** Workforce Distribution: Used a Treemap to visualize employee counts by Job Level (Analyst, Executive, etc.).
-      *   **Managerial & Team Insights:** Built Stacked Column Charts to compare "Absent vs. Present" status across different teams and managers.
-      *   **Demographic Analysis:** Integrated a Donut Chart to display the Gender split (58% Male / 42% Female).
-      *   **Dynamic Filtering:** Added multi-select Slicers for Team, Job Level, Model, and Senior Manager for personalized data drilling.
+      *   **Organizational Hierarchy:** Developed a Treemap to categorize headcount by Job Level, identifying "Analyst" and "Team Lead" as primary roles.
+      *   **Managerial & Team Productivity:**  Designed Stacked Column Charts to visualize the "Absent vs. Present" ratio across 5 distinct teams and individual managers.
+      *   **Demographic & Reporting Insights**  Integrated Donut Charts to monitor gender diversity (58% Male / 42% Female) and span of control for managers.
+<img width="1183" height="668" alt="Employee Data" src="https://github.com/user-attachments/assets/c56c287d-2bbc-4446-9b2e-dfcf01198141" />
 ---
 
 ## 📂 Project Structure
