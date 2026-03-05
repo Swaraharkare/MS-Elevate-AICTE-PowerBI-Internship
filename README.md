@@ -33,6 +33,9 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
  *   **Text & Format Standardization:** Used Capitalized Each Word for consistency and Split Columns by Character to extract specific data attributes for deeper granularity.
  *   **Structural Optimization:** Streamlined the table schema by Removing, Renaming, and Reordering columns to ensure a logical and user-friendly data structure.
  *   **Feature Engineering:** Utilized the Inserted Year transformation to enable time-series filtering and Year-over-Year (YoY) performance comparisons
+
+   <img width="1920" height="1020" alt="OrderDetails" src="https://github.com/user-attachments/assets/b9cc1ee6-7bd8-4c6b-be22-5ff623dff7bd" />
+
 ***
 ### 📊 Week 2: Relational Modeling & Star Schema
 
