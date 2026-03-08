@@ -53,6 +53,10 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
 *   **7-Table Integration:** Processed and cleaned a relational database consisting of Customer, Date, Product, Reseller, Sales, SalesOrder, and SalesTerritory.
 *   **Star Schema Architecture:** Designed a professional data model by connecting a central Fact Table (Sales) to multiple Dimension Tables.
 *   **Relationship Management:** Established One-to-Many and One-to_One relationships and optimized cross-filter directions for accurate calculation.
+*   **Insights:** Integrated global mapping, product performance bar charts, hierarchical financial matrices, and monthly sales trends to highlight regional volume, top-selling categories, and seasonal growth peaks.
+*   **Interactivity:** Added a hierarchical Date Slicer (Year/Month) allowing users to toggle between 2017 and 2018 data instantly.
+    <img width="1920" height="1080" alt="Sales_datamodeling" src="https://github.com/user-attachments/assets/3f22dc91-dd19-433f-84d4-b300c13fcdea" />
+    <img width="1042" height="586" alt="Sales_Report" src="https://github.com/user-attachments/assets/710c36c7-f4cc-4430-9aa2-062dd2c620d6" />
 ***
 ### 👥  Week 3:  Employee Data ETL
 
