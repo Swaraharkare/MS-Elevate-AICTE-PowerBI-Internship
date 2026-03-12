@@ -69,6 +69,21 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
       *   **Demographic & Reporting Insights**  Integrated Donut Charts to monitor gender diversity (58% Male / 42% Female) and span of control for managers.
         <img width="1380" height="732" alt="Home_report_EmployeeData" src="https://github.com/user-attachments/assets/88e5a500-7d14-49f5-8ae9-e03168f7cc56" />
 
+**🛠️ Session-6: Compensation Analysis & Advanced Data Transformation**
+*   **Custom Column (Power Query):** Created emp_salary by calculating Salary + Bonus for total compensation tracking.
+*   **Salary KPI Dashboard:**
+    *    **Financials:** Tracked critical metrics including Max Salary (₹47,250), Min Salary (₹10,500), and Total Payroll (₹7,25,550).
+    *    **Top Talent Insights:** Visualized the "Top 10 Employees By Salary," identifying Kevin Tony as the highest-paid individual at ₹38,325.
+    *    **Level-Based Benchmarking:** Analyzed Avg Salary By Job Level, highlighting that "Analysts" currently hold the highest average compensation at ₹29,925.
+*   **Interactive UI:** Added a "Reset Slicers" button and multiple filters (Team, Job Level, Manager) for deep-dive analysis.
+
+    <img width="1920" height="1080" alt="PowerQuery2" src="https://github.com/user-attachments/assets/9eac6178-8626-4559-8883-fe4eba4b9152" />
+    
+    <img width="1286" height="718" alt="Salary_report_EmployeeData" src="https://github.com/user-attachments/assets/a79de0d7-2a44-4089-bee4-71d9f5c64c15" />
+
+
+
+
 ---
 
 ## 🤝 Let's Connect!
