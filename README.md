@@ -67,14 +67,7 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
       *   **Organizational Hierarchy:** Developed a Treemap to categorize headcount by Job Level, identifying "Analyst" and "Team Lead" as primary roles.
       *   **Managerial & Team Productivity:**  Designed Stacked Column Charts to visualize the "Absent vs. Present" ratio across 5 distinct teams and individual managers.
       *   **Demographic & Reporting Insights**  Integrated Donut Charts to monitor gender diversity (58% Male / 42% Female) and span of control for managers.
-<img width="1183" height="668" alt="Employee Data" src="https://github.com/user-attachments/assets/c56c287d-2bbc-4446-9b2e-dfcf01198141" />
----
-
-## 📂 Project Structure
-- `📁 Datasets/` — Raw and cleaned CSV/Excel files.
-- `📁 Reports/` — Final `.pbix` and `.pbip` project files.
-- `📁 Screenshots/` — High-quality images of the final dashboard.
-- `📄 Documentation/` — Weekly logs and the final project summary.
+        <img width="1380" height="732" alt="Home_report_EmployeeData" src="https://github.com/user-attachments/assets/88e5a500-7d14-49f5-8ae9-e03168f7cc56" />
 
 ---
 
