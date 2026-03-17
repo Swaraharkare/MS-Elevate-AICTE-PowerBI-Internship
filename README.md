@@ -82,12 +82,20 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
     <img width="1286" height="718" alt="Salary_report_EmployeeData" src="https://github.com/user-attachments/assets/a79de0d7-2a44-4089-bee4-71d9f5c64c15" />
 
 ---
-### 🏛️ Week 4: Capstone Project – PMAY-G & Social Convergence
-**🛠️ Final Project: Real-World Public Data Analysis (Pradhan Mantri Awaas Yojana-Gramin)**
-*   **Project Overview:** Developed a multi-page dashboard tracking the progress of India’s rural housing mission.
-*   **Efficiency Audit:** Built a "Lead Time" analysis page to identify bottlenecks in the **Admin $\rightarrow$ Construction $\rightarrow$ Transaction** lifecycle.
-*   **Social Convergence:** Utilized a **Funnel Visual** to analyze the "seeding" of housing beneficiaries into Clean Energy (Ujjwala) and Sanitation (SBM) schemes.
-*   **Insights:** Identified high-performing states (Bihar, MP) and highlighted critical gaps in sanitation seeding requiring administrative attention.
+
+### 🏛️ Week 4: Capstone Project – PMAY-G & Social Convergence Analysis
+
+**🛠️ Final Project: End-to-End Analysis of Pradhan Mantri Awaas Yojana-Gramin (PMAY-G)**
+For the final week, I transitioned from synthetic business data to a massive, real-world public dataset. I developed a multi-page interactive report to track the progress, efficiency, and social impact of India's rural housing mission.
+
+*   **Integrated Multi-Source ETL:** Cleaned and modeled three distinct datasets: Housing Completions, Administrative Lead Times, and Swachh Bharat (SBM) / Ujjwala (LPG) convergence data.
+*   **Key Analytical Dashboards:**
+    *   **Project Overview:** Tracked **Total Sanctioned vs. Completed** units with a dynamic trend line identifying the 2016-17 construction surge.
+    *   **Efficiency Audit:** Built a "Lead Time" analysis page to identify bottlenecks in the **Admin $\rightarrow$ Construction $\rightarrow$ Transaction** lifecycle across different states.
+    *   **Social Convergence:** Utilized a **Funnel Visual** to track how effectively housing beneficiaries were being "seeded" into other government schemes like clean energy (Ujjwala) and sanitation (SBM).
+*   **Advanced Modeling:** Implemented a **Star Schema** with a centralized `Dim_State` table to ensure consistent filtering across disparate housing and sanitation fact tables.
+*   **Insights:** Identified Bihar and Madhya Pradesh as volume leaders, while highlighting a significant gap in sanitation (SBM) seeding that requires administrative intervention.
+  
     <img width="1117" height="628" alt="Overview" src="https://github.com/user-attachments/assets/9e0cc93f-0aba-400f-9635-dc2f163656d6" />
 
     <img width="1183" height="666" alt="Efficiency Audit" src="https://github.com/user-attachments/assets/51aa54d4-e8d6-4de3-b39f-7a32798abd84" />
