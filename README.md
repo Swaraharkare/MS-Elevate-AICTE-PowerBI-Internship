@@ -100,7 +100,16 @@ For the final week, I transitioned from synthetic business data to a massive, re
 
     <img width="1183" height="666" alt="Efficiency Audit" src="https://github.com/user-attachments/assets/51aa54d4-e8d6-4de3-b39f-7a32798abd84" />
 
---- 
+---
+
+## 📂 Project Structure
+Based on the repository organization:
+*   `week_1/` : Introduction to BI, ETL basics, and Data Transformation.
+*   `week_2/` : Relational Modeling, Star Schema, and Financial Reporting.
+*   `week_3/` : HR Analytics, Employee Profiling, and Compensation Analysis.
+*   `week_4/` : **Capstone Project** – PMAY-G & Social Convergence Analysis.
+
+---
 ## 🤝 Let's Connect!
 If you have any feedback or want to discuss Power BI, feel free to reach out!
 
