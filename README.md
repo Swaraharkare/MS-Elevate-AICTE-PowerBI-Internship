@@ -81,11 +81,28 @@ Welcome to my repository for the **Microsoft Elevate Virtual Internship** progra
     
     <img width="1286" height="718" alt="Salary_report_EmployeeData" src="https://github.com/user-attachments/assets/a79de0d7-2a44-4089-bee4-71d9f5c64c15" />
 
-
-
-
 ---
+### 🏛️ Week 4: Capstone Project – PMAY-G & Social Convergence
+**🛠️ Final Project: Real-World Public Data Analysis (Pradhan Mantri Awaas Yojana-Gramin)**
+*   **Project Overview:** Developed a multi-page dashboard tracking the progress of India’s rural housing mission.
+*   **Efficiency Audit:** Built a "Lead Time" analysis page to identify bottlenecks in the **Admin $\rightarrow$ Construction $\rightarrow$ Transaction** lifecycle.
+*   **Social Convergence:** Utilized a **Funnel Visual** to analyze the "seeding" of housing beneficiaries into Clean Energy (Ujjwala) and Sanitation (SBM) schemes.
+*   **Insights:** Identified high-performing states (Bihar, MP) and highlighted critical gaps in sanitation seeding requiring administrative attention.
+    <img width="1117" height="628" alt="Overview" src="https://github.com/user-attachments/assets/9e0cc93f-0aba-400f-9635-dc2f163656d6" />
 
+    <img width="1183" height="666" alt="Efficiency Audit" src="https://github.com/user-attachments/assets/51aa54d4-e8d6-4de3-b39f-7a32798abd84" />
+
+    <img width="1182" height="663" alt="Convergence" src="https://github.com/user-attachments/assets/52f625df-454a-4059-8980-3719ae5f9117" />
+
+    <img width="1211" height="663" alt="Data Modeling" src="https://github.com/user-attachments/assets/b1295454-6cc1-43c3-8d6a-6f91da282e60" />
+
+    <img width="1920" height="1025" alt="PowerQuery 1" src="https://github.com/user-attachments/assets/63062e9a-bdf0-4822-9e22-e6919ab8ba4f" />
+
+    <img width="1920" height="1025" alt="PowerQuery2" src="https://github.com/user-attachments/assets/017f7ad5-47a0-4719-ab6e-18480bcdc5e6" />
+
+    <img width="1920" height="1018" alt="PowerQuery3" src="https://github.com/user-attachments/assets/1cbf3a98-f527-41c0-b806-7b800fe64410" />
+
+--- 
 ## 🤝 Let's Connect!
 If you have any feedback or want to discuss Power BI, feel free to reach out!
 
