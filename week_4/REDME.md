@@ -33,4 +33,3 @@ Based on the project architecture, the repository is organized as follows:
 
 ---
 **Developed by:** Swaranjali (MCA Graduate & University Rank Holder 5th)  
-**Mentorship:** @Vignesh Muthuvelan (MS ELEVATE)
