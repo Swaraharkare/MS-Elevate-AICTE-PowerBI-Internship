@@ -32,4 +32,6 @@ Based on the project architecture, the repository is organized as follows:
 * **DAX:** Developed complex measures for Performance Indexing, YoY growth, and Lead-Time calculations.
 
 ---
-**Developed by:** Swaranjali (MCA Graduate & University Rank Holder 5th)  
+**Developed by:** 
+Swaranjali (MCA Graduate & University Rank Holder 5th)  
+https://www.linkedin.com/in/swaranjali-harkare-364a592a8/
