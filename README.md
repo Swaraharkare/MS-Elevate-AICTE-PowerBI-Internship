@@ -116,6 +116,5 @@ Based on the repository organization:
 
 ---
 ## 🤝 Let's Connect!
-If you have any feedback or want to discuss Power BI, feel free to reach out!
-
+Swaranjali Harkare
 https://www.linkedin.com/in/swaranjali-harkare-364a592a8/
