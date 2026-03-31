@@ -96,6 +96,8 @@ For the final week, I transitioned from synthetic business data to a massive, re
 *   **Advanced Modeling:** Implemented a **Star Schema** with a centralized `Dim_State` table to ensure consistent filtering across disparate housing and sanitation fact tables.
 *   **Insights:** Identified Bihar and Madhya Pradesh as volume leaders, while highlighting a significant gap in sanitation (SBM) seeding that requires administrative intervention.
   
+    <img width="1211" height="663" alt="Data Modeling" src="https://github.com/user-attachments/assets/2e06579a-f7ab-4b90-b8fc-ab85c3949e9d" />
+
     <img width="1117" height="628" alt="Overview" src="https://github.com/user-attachments/assets/9e0cc93f-0aba-400f-9635-dc2f163656d6" />
 
     <img width="1183" height="666" alt="Efficiency Audit" src="https://github.com/user-attachments/assets/51aa54d4-e8d6-4de3-b39f-7a32798abd84" />
