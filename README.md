@@ -100,6 +100,9 @@ For the final week, I transitioned from synthetic business data to a massive, re
 
     <img width="1183" height="666" alt="Efficiency Audit" src="https://github.com/user-attachments/assets/51aa54d4-e8d6-4de3-b39f-7a32798abd84" />
 
+    <img width="1182" height="663" alt="Convergence" src="https://github.com/user-attachments/assets/dec49887-8e52-4106-a059-9917644ce6e7" />
+
+
 ---
 
 ## 📂 Project Structure
